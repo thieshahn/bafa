@@ -511,7 +511,7 @@ div.ipsPanel.ipsDWDReport .title {
 
 .ipsLogin>.content {
 	margin: 0;
-	height: 50%; }
+	height: 10%; }
 	
 .ipsLogin>.content>.configurators {
 	background: none;a
