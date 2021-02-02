@@ -504,10 +504,10 @@ div.ipsPanel.ipsDWDReport .title {
 	position: fixed;
 	height: 900px;
 	width: 1400px;
-	top: 20%;
-	left: 20%;
-	margin-left: -240px;
-	margin-top: -100px;}
+	top: 10%;
+	left: 10%;
+	margin-left: -140px;
+	margin-top: -20px;}
 
 .ipsLogin>.content {
 	margin: 0;
