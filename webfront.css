@@ -425,7 +425,7 @@ margin-top: 5px; }
 	color: black; }
 	
 html body .ipsDialog.ipsChartDialog > div {
-    background-color: #f9f9f9!important; }
+    background-color: #ffffff!important; }
     
 .ipsDialog	> div, .ipsNotification div.message {
     color: black!important; }
@@ -504,8 +504,8 @@ div.ipsPanel.ipsDWDReport .title {
 	position: fixed;
 	height: 404px;
 	width: 998px;
-	top: 50%;
-	left: 50%;
+	top: 20%;
+	left: 20%;
 	margin-left: -240px;
 	margin-top: -100px;}
 
