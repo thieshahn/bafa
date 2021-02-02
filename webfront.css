@@ -504,8 +504,8 @@ div.ipsPanel.ipsDWDReport .title {
 	position: fixed;
 	height: 404px;
 	width: 998px;
-	top: 50%;
-	left: 50%;
+	top: 100%;
+	left: 100%;
 	margin-left: -240px;
 	margin-top: -100px;}
 
