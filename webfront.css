@@ -57,10 +57,10 @@ body{
 div.ipsLogin,
 div.ipsWebFront {
 	color: black;
-	background: #f9f9f9; /* Old browsers */
-	background: -moz-radial-gradient(center, ellipse cover, #f9f9f9 0%, #e3e7eb 100%); /* FF3.6-15 */
-	background: -webkit-radial-gradient(center, ellipse cover, #f9f9f9 0%,#e3e7eb 100%); /* Chrome10-25,Safari5.1-6 */
-	background: radial-gradient(ellipse at center, #f9f9f9 0%,#e3e7eb 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */ }	
+	background: #FFFFFF; /* Old browsers */
+	background: -moz-radial-gradient(center, ellipse cover, #FFFFFF 0%, #e3e7eb 100%); /* FF3.6-15 */
+	background: -webkit-radial-gradient(center, ellipse cover, #FFFFFF 0%,#e3e7eb 100%); /* Chrome10-25,Safari5.1-6 */
+	background: radial-gradient(ellipse at center, #FFFFFF 0%,#e3e7eb 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */ }	
 	
 .ipsContainer.text.error {
     color: #de0909; }
@@ -85,7 +85,7 @@ div.ipsWebFront {
 	padding-right: 10px; }
 
 .ipsIconIPS {
-	background-image: url(img/IPS.svg)!important;
+	background-image: url(img/spinner.svg)!important;
 	filter: invert(0)!important;
 }
 
@@ -500,12 +500,12 @@ div.ipsPanel.ipsDWDReport .title {
 .ipsLogin .logoTop {
 	background-image: url(img/bafa.svg);
 	background-repeat: no-repeat;
-	background-size: contain;
+	background-size:;
 	position: fixed;
 	height: 404px;
 	width: 998px;
-	top: 100%;
-	left: 100%;
+	top: 50%;
+	left: 50%;
 	margin-left: -240px;
 	margin-top: -100px;}
 
