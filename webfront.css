@@ -500,9 +500,9 @@ div.ipsPanel.ipsDWDReport .title {
 .ipsLogin .logoTop {
 	background-image: url(img/bafa.svg);
 	background-repeat: no-repeat;
-	background-size:;
+	background-size:100%;
 	position:;
-	height: 900px;
+	height: 200px;
 	width: 1400px;
 	top: 10%;
 	left: 10%;
@@ -521,7 +521,7 @@ div.ipsPanel.ipsDWDReport .title {
     height: 100%; }
 
 .ipsLogin>.content>.configurators>div {
-	background-color: white;
+	background-color: green;
     border: none;
     box-shadow: 5px 7px 5px -5px rgb(182, 182, 182);
     margin: 0px 5%;
